@@ -69,10 +69,8 @@ public class ProcessFiles {
         if (!parentDirectory.exists()) {
             if (!parentDirectory.mkdirs()) {
                 System.out.println("Error: Could not create directory - " + parentDirectory.getAbsolutePath());
-                return null;
             }
         }
-
         return file;
     }
 }

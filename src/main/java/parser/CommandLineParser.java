@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CommandLineParser {
-    private String outputPath = null;
+    private String outputPath = ".";
     private String prefix = "";
     private boolean appendMode = false;
     private boolean summarize = false;
