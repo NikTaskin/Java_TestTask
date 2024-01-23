@@ -1,0 +1,11 @@
+ContentFilterUtility.class
+stats/PrintStatistics.class
+processing/check/IsFileEmpty.class
+stats/StatsEntry.class
+parser/CommandLineParser.class
+stats/DataType.class
+processing/ProcessFiles.class
+processing/ClassifyAndWrite.class
+processing/CreateReaders.class
+stats/UpdateStats.class
+processing/check/IsValidFile.class
